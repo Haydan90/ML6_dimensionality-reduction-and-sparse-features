@@ -44,7 +44,7 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone [https://github.com/andriatu/ML6_dimensionality-reduction-and-sparse-features.git](https://github.com/andriatu/ML6_dimensionality-reduction-and-sparse-features.git)
+   git clone [https://github.com/Haydan90/ML6_dimensionality-reduction-and-sparse-features.git](https://github.com/Haydan90/ML6_dimensionality-reduction-and-sparse-features.git)
    cd ML6_dimensionality-reduction-and-sparse-features
    ```
 2. Установить зависимости:
